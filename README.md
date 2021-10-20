@@ -1,0 +1,6 @@
+# Administrador de Proyectos de Investigación - Backend
+
+Ejecutar el siguiente codigo para generar las dependencias node_modules
+...
+npm install 
+...
